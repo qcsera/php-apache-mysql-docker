@@ -12,6 +12,6 @@ if($conn->connect_error)
 }
 echo 'Sucessfully connected to MYSQL';
 
-echo 'Hello from Docker';
+echo 'Hello from Docker!';
 
 ?>
